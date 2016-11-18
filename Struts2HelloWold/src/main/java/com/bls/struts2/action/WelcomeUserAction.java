@@ -13,8 +13,10 @@ public class WelcomeUserAction{
 	}
 
 	// all struts logic here
+
 	public String execute() {
 
+		// this should return the welcome page.....
 		return "SUCCESS";
 
 	}
